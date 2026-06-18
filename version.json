@@ -1,5 +1,2 @@
-
-{
-    "version": "1.0.1",
-    "firmware_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/firmware.bin"
-}
+String VERSION_URL =
+"https://imtiyaz1207.github.io/OTA_Update/version.json";
