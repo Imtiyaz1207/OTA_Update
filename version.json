@@ -1,2 +1,4 @@
-String VERSION_URL =
-"https://imtiyaz1207.github.io/OTA_Update/version.json"
+{
+  "version": "1.0.1",
+  "firmware_url": "https://imtiyaz1207.github.io/OTA_Update/firmware.bin"
+}
